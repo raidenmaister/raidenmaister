@@ -1,8 +1,8 @@
 <h2 align="left">Bienvenido a mi lugar de desarrollo...</h2>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/stats-output/dist/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/languages-output/dist/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 <br/>
