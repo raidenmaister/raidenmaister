@@ -1,8 +1,8 @@
 <h2 align="left">Bienvenido a mi lugar de desarrollo...</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raidenmaister&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidenmaister&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/stats-output/dist/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/raidenmaister/raidenmaister/languages-output/dist/languages.svg" height="150" alt="languages graph" />
 </div>
 
 <br/>
